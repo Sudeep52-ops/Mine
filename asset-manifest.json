@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mine/static/css/main.e6c13ad2.css",
+    "main.js": "/Mine/static/js/main.a8afb499.js",
+    "static/js/787.c1112931.chunk.js": "/Mine/static/js/787.c1112931.chunk.js",
+    "index.html": "/Mine/index.html",
+    "main.e6c13ad2.css.map": "/Mine/static/css/main.e6c13ad2.css.map",
+    "main.a8afb499.js.map": "/Mine/static/js/main.a8afb499.js.map",
+    "787.c1112931.chunk.js.map": "/Mine/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a8afb499.js"
+  ]
+}
